@@ -31,11 +31,17 @@ the data was saved as follows:
 
 Based on the data analysis, we recommend MTP follow the below guidelines:
 
+![top5makes](images/Top_5_makes_chart.png)
+
 * MTP will focus on a business relationship with 5 companies: Cessna, Bell, Beechcraft (under the umbrella Textron Corporation), Piper, and Boeing
 
 * Within the 5 companies, the top 5 models have been listed for distribution
 
+![months](images/motnhly_trend.png)
+
 * timing-wise, it is best to stock the warehouses before the busiest months, which appear to be between May - August
+
+![Regions](images/regional_trend.png)
 
 * MTP will have regional outposts divvied up by Northeast, Southeast, South, Midwest, and West divisions, which will focus on the above 5 companies based off top makes by each region, with Cessna being the frontrunner across all regions
 
